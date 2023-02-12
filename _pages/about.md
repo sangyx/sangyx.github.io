@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Software Development Engineer in Alibaba Cloud. I got my Master's degree in Management Science and Engineering from [Antai College of Economics and Management (ACEM)](https://www.acem.sjtu.edu.cn/en/), [Shanghai Jiao Tong University (SJTU), Shanghai, China](https://en.sjtu.edu.cn/) in 2022, under the supervision of [Prof. Yang Bao](https://yangbao.org/). My research interests are mainly on **Graph Mining and its application in Finance and Management Science**. 
+I'm currently a Software Development Engineer in Alibaba Cloud. I got my Master's degree in Management Science and Engineering from [Antai College of Economics and Management](https://www.acem.sjtu.edu.cn/en/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in 2022, under the supervision of [Prof. Yang Bao](https://yangbao.org/). My research interests are mainly on **Graph Mining and its application in Finance and Management Science**. 
 
 If you are interested in my open source projects or research, feel free to contact me.
 
