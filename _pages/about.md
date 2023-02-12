@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Software Development Engineer in Alibaba Cloud. I got my Master's degree in Management Science and Engineering from [Antai College of Economics and Management (ACEM)](https://www.acem.sjtu.edu.cn/en/), [Shanghai Jiao Tong University (SJTU), Shanghai, China](https://en.sjtu.edu.cn/) in 2022, under the supervision of [Prof. Yang Bao](https://yangbao.org/). My research interests are mainly on **Graph Mining and its application on Finance and Management Science**. 
+I'm currently a Software Development Engineer in Alibaba Cloud. I got my Master's degree in Management Science and Engineering from [Antai College of Economics and Management (ACEM)](https://www.acem.sjtu.edu.cn/en/), [Shanghai Jiao Tong University (SJTU), Shanghai, China](https://en.sjtu.edu.cn/) in 2022, under the supervision of [Prof. Yang Bao](https://yangbao.org/). My research interests are mainly on **Graph Mining and its application in Finance and Management Science**. 
 
 If you are interested in my open source projects or research, feel free to contact me.
 
@@ -16,11 +16,11 @@ If you are interested in my open source projects or research, feel free to conta
 
 - Dec 2022: A talk about **DialogueGAT** in FinNLP-2022.
 
-- Oct 2022: Our papers **DialogueGAT: A Graph Attention Network for Financial Risk Prediction by Modeling the Dialogues in Earnings Conference Calls**([code](https://github.com/sangyx/DialogueGAT)) are accepted by Findings of EMNLP 2022!
+- Oct 2022: Our paper **DialogueGAT: A Graph Attention Network for Financial Risk Prediction by Modeling the Dialogues in Earnings Conference Calls**([code](https://github.com/sangyx/DialogueGAT)) is accepted by Findings of EMNLP 2022!
 
-- Aug 2022: I join Alibaba Cloud and work as a Software Development Engineer.
+- Aug 2022: I join Alibaba Cloud as a Software Development Engineer.
 
-- Jun 2021: I finish my internship and leave from AWS Shanghai AI Lab.
+- Jun 2021: I finish my internship at AWS Shanghai AI Lab.
 
 - Jun 2021: I get my master's degree in Management Science and Engineering from Shanghai Jiao Tong University.
 
