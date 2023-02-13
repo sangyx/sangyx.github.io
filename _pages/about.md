@@ -20,9 +20,9 @@ If you are interested in my open source projects or research, feel free to conta
 
 - Aug 2022: I join Alibaba Cloud as a Software Development Engineer.
 
-- Jun 2021: I finish my internship at AWS Shanghai AI Lab.
+- Jun 2022: I get my master's degree in Management Science and Engineering from Shanghai Jiao Tong University.
 
-- Jun 2021: I get my master's degree in Management Science and Engineering from Shanghai Jiao Tong University.
+- Jul 2021: I join AWS Shanghai AI Lab as a Software Develop Intern, working with [Tong He](https://hetong007.github.io/) and [Quan Gan](https://www.amazon.science/author/quan-gan) on graph pooling research.
 
 # Education
 
