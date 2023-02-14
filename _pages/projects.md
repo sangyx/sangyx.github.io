@@ -17,4 +17,4 @@ I maintained/created the following open source projects:
 I’m a committer in the following open source projects:
 - [dgl](https://www.dgl.ai/): One of the most used Graph Learning Libraries.
 - [ogb](https://github.com/snap-stanford/ogb): Benchmark datasets, data loaders, and evaluators for graph machine learning
-- [udiff](https://github.com/Quansight-Labs/udiff): An Automatic Differentiation Library, Google Summer of Code 2020
+- [udiff](https://github.com/Quansight-Labs/udiff): An Automatic Differentiation Library, [Google Summer of Code 2020](https://summerofcode.withgoogle.com/archive/2020/projects/5798229544796160)
