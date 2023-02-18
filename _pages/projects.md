@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-You can also find my open source projects on <a href="https://github.com/sangyx">my Github</a>.
+You can also find my open source projects on [my Github](https://github.com/sangyx).
 
 {% include base_path %}
 
