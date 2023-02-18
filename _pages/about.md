@@ -18,11 +18,11 @@ If you are interested in my open source projects or research, feel free to conta
 
 - Oct 2022: Our paper **DialogueGAT: A Graph Attention Network for Financial Risk Prediction by Modeling the Dialogues in Earnings Conference Calls**([code](https://github.com/sangyx/DialogueGAT)) is accepted by Findings of EMNLP 2022!
 
-- Aug 2022: I join Alibaba Cloud as a Software Development Engineer.
+- Aug 2022: I join **Alibaba Cloud** as a Software Development Engineer.
 
-- Jun 2022: I get my master's degree in Management Science and Engineering from Shanghai Jiao Tong University.
+- Jun 2022: I get my master's degree in Management Science and Engineering from **Shanghai Jiao Tong University**.
 
-- Jul 2021: I join AWS Shanghai AI Lab as a Software Develop Intern, working with [Tong He](https://hetong007.github.io/) and [Quan Gan](https://www.amazon.science/author/quan-gan) on Graph Pooling.
+- Jul 2021: I join **AWS Shanghai AI Lab** as a Software Develop Intern, working with [Tong He](https://hetong007.github.io/) and [Quan Gan](https://www.amazon.science/author/quan-gan) on Graph Pooling.
 
 # Education
 
@@ -37,7 +37,7 @@ If you are interested in my open source projects or research, feel free to conta
 
 # Work Experience
 
-- **Software Development Engineer**, Alibab Cloud, Aug 2022 - Present
-- **Software Develop Intern**, AWS Shanghai AI Lab, Jul 2021 - Jun 2022 
-* **Data Scientist Intern**, eBay, Jul 2020 - Sep 2020
-* **Test Development Intern**, BaiDu, Nov 2018 - Jan 2019
+- Software Development Engineer, Alibab Cloud, Aug 2022 - Present
+- Software Develop Intern, AWS Shanghai AI Lab, Jul 2021 - Jun 2022 
+- Data Scientist Intern, eBay, Jul 2020 - Sep 2020
+- Test Development Intern, BaiDu, Nov 2018 - Jan 2019
