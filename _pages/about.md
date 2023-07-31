@@ -16,17 +16,17 @@ If you are interested in my open-source projects or research, feel free to conta
 
 # News
 
-- Feb 2023: I accept the Ph.D. offer from UT Austin.
+- Feb 2023: I accepted the Ph.D. offer from UT Austin.
 
 - Dec 2022: A talk about **DialogueGAT** in FinNLP-2022.
 
-- Oct 2022: Our paper **DialogueGAT: A Graph Attention Network for Financial Risk Prediction by Modeling the Dialogues in Earnings Conference Calls**([code](https://github.com/sangyx/DialogueGAT)) is accepted by Findings of EMNLP 2022!
+- Oct 2022: Our paper **DialogueGAT: A Graph Attention Network for Financial Risk Prediction by Modeling the Dialogues in Earnings Conference Calls**([code](https://github.com/sangyx/DialogueGAT)) was accepted by Findings of EMNLP 2022!
 
-- Aug 2022: I join **Alibaba Cloud** as a Software Development Engineer.
+- Aug 2022: I joined **Alibaba Cloud** as a Software Development Engineer.
 
-- Jun 2022: I get my master's degree in Management Science and Engineering from **Shanghai Jiao Tong University**.
+- Jun 2022: I got my master's degree in Management Science and Engineering from **Shanghai Jiao Tong University**.
 
-- Jul 2021: I join **AWS Shanghai AI Lab** as a Software Develop Intern, working on Graph Pooling.
+- Jul 2021: I joined **AWS Shanghai AI Lab** as a Software Develop Intern, working on Graph Pooling.
 
 # Education
 
