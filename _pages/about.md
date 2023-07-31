@@ -10,7 +10,7 @@ redirect_from:
 
 I'm working as a Ph.D. student in Information System at McCombs School of Business, University of Texas at Austin, under the supervision of [Prof. Yan Leng](https://yleng.github.io/www/). This is a job to pursue impact on both academia and industry. My research interests are mainly on **AI for Business**, exactly, I design deep learning models to solve practical business problems.
 
-Before coming to Austin, I worked as a Software Development Engineer in Alibaba Cloud. I got received my M.S. in Management Science and Engineering from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in 2022 and my B.S. in Information Management and Information System from [Wuhan Univeristy](https://www.whu.edu.cn/) in 2019. I also hode a minor degree in computer science from [Huazhong University of Science and Technology](https://www.hust.edu.cn/).
+Before coming to Austin, I worked as a Software Development Engineer in Alibaba Cloud. I received my M.S. in Management Science and Engineering from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in 2022 and my B.S. in Information Management and Information System from [Wuhan Univeristy](https://www.whu.edu.cn/) in 2019. I also hode a minor degree in computer science from [Huazhong University of Science and Technology](https://www.hust.edu.cn/).
 
 If you are interested in my open-source projects or research, feel free to contact me.
 
