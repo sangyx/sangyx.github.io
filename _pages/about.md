@@ -8,25 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-I'm working as a Ph.D. student in Information System at McCombs School of Business, University of Texas at Austin, under the supervision of [Prof. Yan Leng](https://yleng.github.io/www/). This is a job to pursue impact on both academia and industry. My research interests are mainly on **AI for Business**, exactly, I design deep learning models to solve practical business problems.
+I'm currently working as a Ph.D. student in Information System at McCombs School of Business, University of Texas at Austin, under the supervision of [Prof. Yan Leng](https://yleng.github.io/www/). This is a job to pursue impact on both academia and industry. My research interests are mainly on **AI for Business**, exactly, I design deep learning models to solve practical business problems.
 
-Before coming to Austin, I worked as a Software Development Engineer in Alibaba Cloud. I received my M.S. in Management Science and Engineering from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in 2022 and my B.S. in Information Management and Information System from [Wuhan Univeristy](https://www.whu.edu.cn/) in 2019. I also hode a minor degree in computer science from [Huazhong University of Science and Technology](https://www.hust.edu.cn/).
+Before coming to Austin, I worked as a Software Development Engineer in Alibaba Cloud. I received my M.S. in Management Science and Engineering from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in 2022 and my B.S. in Information Management and Information System from [Wuhan Univeristy](https://www.whu.edu.cn/) in 2019. I also hold a minor degree in computer science from [Huazhong University of Science and Technology](https://www.hust.edu.cn/).
 
 If you are interested in my open-source projects or research, feel free to contact me.
 
 # News
 
-- Feb 2023: I accepted the Ph.D. offer from UT Austin.
+- Feb 2023: I accepted the Ph.D. offer from **UT Austin**, a turning point in my career life.
 
-- Dec 2022: A talk about **DialogueGAT** in FinNLP-2022.
+- Dec 2022: A talk about **DialogueGAT** ([slide](../files/slide/DialogueGAT-FinNLP-2022.pdf)) in FinNLP-2022.
 
-- Oct 2022: Our paper **DialogueGAT: A Graph Attention Network for Financial Risk Prediction by Modeling the Dialogues in Earnings Conference Calls**([code](https://github.com/sangyx/DialogueGAT)) was accepted by Findings of EMNLP 2022!
+- Oct 2022: Our paper [**DialogueGAT: A Graph Attention Network for Financial Risk Prediction by Modeling the Dialogues in Earnings Conference Calls**](https://aclanthology.org/2022.findings-emnlp.117/) ([code](https://github.com/sangyx/DialogueGAT)) was accepted by Findings of EMNLP 2022!
+
+<details><summary> more </summary>
 
 - Aug 2022: I joined **Alibaba Cloud** as a Software Development Engineer.
 
-- Jun 2022: I got my master's degree in Management Science and Engineering from **Shanghai Jiao Tong University**.
+- Jun 2022: I got my M.S. in Management Science and Engineering from **Shanghai Jiao Tong University**.
 
 - Jul 2021: I joined **AWS Shanghai AI Lab** as a Software Develop Intern, working on Graph Pooling.
+
+- Jun 2019: I got my B.S. in Information Management and Information System from **Wuhan Univeristy**.
+
+</details>
 
 # Education
 
