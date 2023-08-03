@@ -12,7 +12,7 @@ I'm currently working as a Ph.D. student in Information System at McCombs School
 
 Before coming to Austin, I worked as a Software Development Engineer in Alibaba Cloud. I received my M.S. in Management Science and Engineering from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in 2022 and my B.S. in Information Management and Information System from [Wuhan Univeristy](https://www.whu.edu.cn/) in 2019. I also hold a minor degree in computer science from [Huazhong University of Science and Technology](https://www.hust.edu.cn/).
 
-If you are interested in my open-source projects or research, feel free to contact me.
+If you are interested in my research or open-source projects, feel free to contact me.
 
 # News
 
@@ -22,17 +22,13 @@ If you are interested in my open-source projects or research, feel free to conta
 
 - Oct 2022: Our paper [**DialogueGAT: A Graph Attention Network for Financial Risk Prediction by Modeling the Dialogues in Earnings Conference Calls**](https://aclanthology.org/2022.findings-emnlp.117/) ([code](https://github.com/sangyx/DialogueGAT)) was accepted by Findings of EMNLP 2022!
 
-<details><summary> more </summary>
-
 - Aug 2022: I joined **Alibaba Cloud** as a Software Development Engineer.
 
 - Jun 2022: I got my M.S. in Management Science and Engineering from **Shanghai Jiao Tong University**.
 
 - Jul 2021: I joined **AWS Shanghai AI Lab** as a Software Develop Intern, working on Graph Pooling.
 
-- Jun 2019: I got my B.S. in Information Management and Information System from **Wuhan Univeristy**.
-
-</details>
+- Jun 2019: I received my B.S. in Information Management and Information System from **Wuhan Univeristy**.
 
 # Education
 
