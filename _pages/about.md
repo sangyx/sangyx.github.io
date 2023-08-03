@@ -22,6 +22,8 @@ If you are interested in my research or open-source projects, feel free to conta
 
 - Oct 2022: Our paper [**DialogueGAT: A Graph Attention Network for Financial Risk Prediction by Modeling the Dialogues in Earnings Conference Calls**](https://aclanthology.org/2022.findings-emnlp.117/) ([code](https://github.com/sangyx/DialogueGAT)) was accepted by Findings of EMNLP 2022!
 
+[expand]
+
 - Aug 2022: I joined **Alibaba Cloud** as a Software Development Engineer.
 
 - Jun 2022: I got my M.S. in Management Science and Engineering from **Shanghai Jiao Tong University**.
@@ -29,6 +31,8 @@ If you are interested in my research or open-source projects, feel free to conta
 - Jul 2021: I joined **AWS Shanghai AI Lab** as a Software Develop Intern, working on Graph Pooling.
 
 - Jun 2019: I received my B.S. in Information Management and Information System from **Wuhan Univeristy**.
+
+[/expand]
 
 # Education
 
