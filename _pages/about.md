@@ -12,7 +12,7 @@ I'm currently working as a Ph.D. student in Information System at [McCombs Schoo
 
 Before coming to Austin, I worked as a Software Development Engineer in Alibaba Cloud. I received my M.S. in Management Science and Engineering from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in 2022 and my B.S. in Information Management and Information System from [Wuhan Univeristy](https://www.whu.edu.cn/) in 2019. I also hold a minor degree in Computer Science from [Huazhong University of Science and Technology](https://www.hust.edu.cn/).
 
-If you are interested in my research or open-source projects, feel free to contact me.
+If you are interested in my [research](https://sangyx.com/publications/) or [open-source projects](https://sangyx.com/projects/), feel free to contact me.
 
 # News
 
