@@ -12,6 +12,7 @@ You can also find my open source projects on [my Github](https://github.com/sang
 I maintained/created the following open source projects:
 - [gtrick](https://github.com/sangyx/gtrick): Bag of Tricks for Graph Neural Networks
 - [udiff](https://github.com/Quansight-Labs/udiff): An Automatic Differentiation Library, [Google Summer of Code 2020](https://summerofcode.withgoogle.com/archive/2020/projects/5798229544796160)
+- [deep-business](https://github.com/sangyx/deep-business): AI Tools for Business Research.
 
 
 
