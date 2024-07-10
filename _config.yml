@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yunxin Sang"
 title_separator          : "-"
 name                     : &name "Yunxin Sang"
-description              : &description "Talk is cheap, show me the code & money."
+description              : &description "A Ph.D. student"
 url                      : https://sangyx.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sangyx/sangyx.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yunxin Sang"
   avatar           : "profile.jpg"
-  bio              : "Talk is cheap, show me the code & money."
-  location         : "Austin, Texas"
+  bio              : "Entia non sunt multiplicanda praeter necessitatem."
+  location         : "UT Austin"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Yk8TjrsAAAAJ&hl=en"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "sangyx"
+  linkedin         : 
   orcid            :
   pinterest        :
   soundcloud       :
