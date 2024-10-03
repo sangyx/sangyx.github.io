@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently working as a Ph.D. student in Information Systems at [McCombs School of Business](https://www.mccombs.utexas.edu/), University of Texas at Austin. **It is a job to pursue impact on both academia and industry.** Fortunately, I have a nice and supportive advisor, [Prof. Yan Leng](https://yleng.github.io/www/), to guide me through this journey.
+I'm currently working as a Ph.D. student in Information Systems at [McCombs School of Business](https://www.mccombs.utexas.edu/), University of Texas at Austin. **It is a job to pursue impact on both academia and industry.** Fortunately, I have a nice and supportive advisor, [Prof. Yan Leng](https://yleng.github.io/www/), to guide me through this challenging journey.
 
 My research interests are mainly on **AI for Business**. Specifically, I design AI systems (graph neural networks, large language models) to solve practical business problems (marketing design, fintech, etc.).
 
