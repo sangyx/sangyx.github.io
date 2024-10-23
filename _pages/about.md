@@ -17,6 +17,7 @@ Before coming to Austin, I worked as a software development engineer for Alibaba
 If you are interested in my [research](https://sangyx.com/publications/) or [open-source projects](https://sangyx.com/projects/), feel free to contact me.
 
 # News
+- Oct 2024: Joint with Prof. Yan Leng and Prof. Ashish Agarwal, we won INFORMS Data Science Workshop Best Paper Award on a paper about LLM for marketing content generation.
 
 - Feb 2023: I accepted the Ph.D. offer from **UT Austin**, a turning point in my career life.
 
