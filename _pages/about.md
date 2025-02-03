@@ -12,12 +12,12 @@ I'm currently working as a Ph.D. student in Information Systems at [McCombs Scho
 
 My research interests are mainly on **AI for Business**. Specifically, I design AI systems (graph neural networks, large language models) to solve practical business problems (marketing design, fintech, etc.).
 
-Before coming to Austin, I worked as a software development engineer for Alibaba Cloud. I received my M.S. in Management Science and Engineering from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in 2022 and my B.S. in Information Management and Information System from [Wuhan University](https://www.whu.edu.cn/) in 2019. I also hold a minor degree in Computer Science from [Huazhong University of Science and Technology](https://www.hust.edu.cn/).
+Before coming to Austin, I worked as a software development engineer for Alibaba Cloud. I received my M.S. in Management Science and Engineering from Shanghai Jiao Tong University in 2022 and my B.S. in Information Management and Information Systems from Wuhan University in 2019. I also hold a minor degree in Computer Science from Huazhong University of Science and Technology.
 
 If you are interested in my [research](https://sangyx.com/publications/) or [open-source projects](https://sangyx.com/projects/), feel free to contact me.
 
 # News
-- Oct 2024: Joint with Prof. Yan Leng and Prof. Ashish Agarwal, we won INFORMS Data Science Workshop Best Paper Award on a paper about LLM for marketing content generation.
+- Oct 2024: Joint with Prof. Yan Leng and Prof. Ashish Agarwal, we won the INFORMS Data Science Workshop Best Paper Award on a paper about LLM for marketing content generation.
 
 - Feb 2023: I accepted the Ph.D. offer from **UT Austin**, a turning point in my career life.
 
