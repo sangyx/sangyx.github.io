@@ -17,7 +17,7 @@ Before coming to Austin, I worked as a software development engineer for Alibaba
 If you are interested in my [research](https://sangyx.com/publications/) or [open-source projects](https://sangyx.com/projects/), feel free to contact me.
 
 # News
-- Oct 2025: Joint with Prof. Yan Leng and Prof. Leqi Liu, we won the INFORMS Data Science Workshop Best Paper Runner Up on a paper about Homogenization Effects of Large Language Models on Platform Welfare.
+- Oct 2025: Joint with Prof. Yan Leng and Prof. Leqi Liu, we won the INFORMS Data Science Workshop Best Paper Runner Up Award on a paper about the Impact of Homogenization Effects in Large Language Models on Platform Welfare.
 
 - Oct 2024: Joint with Prof. Yan Leng and Prof. Ashish Agarwal, we won the INFORMS Data Science Workshop Best Paper Award on a paper about LLM for marketing content generation.
 
