@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently working as a Ph.D. student in Information Systems at [McCombs School of Business](https://www.mccombs.utexas.edu/), University of Texas at Austin. **It is a job to pursue impact on both academia and industry.** Fortunately, I have two nice and supportive advisors, [Prof. Yan Leng](https://yleng.github.io/www/) and [Prof. Ashish Agarwal](https://sites.google.com/site/ashish1site/), to guide me through this challenging journey.
+I'm currently working as a Ph.D. student in Information Systems at [McCombs School of Business](https://www.mccombs.utexas.edu/), University of Texas at Austin. **It is a job to pursue impact on both academia and industry.** Fortunately, I have two of the best advisors in the world, [Prof. Yan Leng](https://yleng.github.io/www/) and [Prof. Ashish Agarwal](https://sites.google.com/site/ashish1site/), to guide me through this challenging journey.
 
-My research interests are mainly on **AI for Business**. Specifically, I design AI systems (graph neural networks, large language models) to solve practical business problems (marketing design, fintech, etc.).
+My research interests are mainly in **AI for Business**. Specifically, I design AI systems (graph neural networks, large language models) to solve practical business problems (marketing design, fintech, etc.).
 
 Before coming to Austin, I worked as a software development engineer for Alibaba Cloud. I received my M.S. in Management Science and Engineering from Shanghai Jiao Tong University in 2022 and my B.S. in Information Management and Information Systems from Wuhan University in 2019. I also hold a minor degree in Computer Science from Huazhong University of Science and Technology.
 
