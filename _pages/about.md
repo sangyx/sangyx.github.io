@@ -10,7 +10,7 @@ redirect_from:
 
 I'm currently working as a Ph.D. student in Information Systems at [McCombs School of Business](https://www.mccombs.utexas.edu/), University of Texas at Austin. **It is a job to pursue impact on both academia and industry.** Fortunately, I have two of the best advisors in the world, [Prof. Yan Leng](https://yleng.github.io/www/) and [Prof. Ashish Agarwal](https://sites.google.com/site/ashish1site/), to guide me through this challenging journey.
 
-My research interest lies at the intersection of AI and Business, following a Design Science pathway. Specifically, I explore how LLMs understand and model our business world, trying to extract valuable signals to guide commercial practice (Computational Advertising \& FinTech).
+My research interest lies at the intersection of AI and Business, following a Design Science pathway. Specifically, I explore how LLMs understand and model our business world, trying to extract valuable signals to guide commercial practice (Computational Advertising & FinTech).
 
 Before coming to Austin, I worked as a software development engineer for Alibaba Cloud. I received my M.S. in Management Science and Engineering from Shanghai Jiao Tong University in 2022 and my B.S. in Information Management and Information Systems from Wuhan University in 2019. I also hold a minor degree in Computer Science from Huazhong University of Science and Technology.
 
@@ -45,15 +45,9 @@ If you are interested in my [research](https://sangyx.com/publications/) or [ope
 - B.S. in Information Management and Information System, School of Information Management, Wuhan University, 2019
 - B.S.(Minor) in Computer Science and Technology, School of Computer Science and Technology, Huazhong University of Science and Technology, 2019
 
-# Selected Awards
-
-- BAAI & ICT – False News Detection Task 3, Silver Medal, 2020
-- Tsang Hin-chi Scholarship, 2016 - 2019
-- Excellent Student Cadre of Shandong Province, 2014
-
 # Work Experience
 
 - Software Development Engineer, Alibaba Cloud, Aug 2022 - Jun 2023
-- Software Develop Intern, AWS Shanghai AI Lab, Jul 2021 - Jun 2022 
+- Software Development Intern, AWS Shanghai AI Lab, Jul 2021 - Jun 2022 
 - Data Scientist Intern, eBay, Jul 2020 - Sep 2020
 - Test Development Intern, Baidu, Nov 2018 - Jan 2019
